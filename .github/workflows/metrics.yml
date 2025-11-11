@@ -1,0 +1,28 @@
+name: Generate Metrics
+
+on:
+  schedule: [{cron: "0 */12 * * *"}]  # setiap 12 jam
+  workflow_dispatch:  # bisa dijalankan manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          # === CONFIG DASAR ===
+          user: Edwardlmfao
+          template: classic
+          base: header, repositories
+          config_timezone: Asia/Jakarta
+
+          # === PLUGIN: TOPICS ===
+          plugin_topics: yes
+          plugin_topics_limit: 12
+          plugin_topics_mode: mastered
+          plugin_topics_sort: stars
+          plugin_topics_ignored: null
+          plugin_topics_skipped: null
+          plugin_topics_filter: all
