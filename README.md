@@ -1,6 +1,7 @@
 <h1 align="center">
-⊱  ───   ⌬〰  °⌜⏣⌟°  〰⌬   ───  ⊰
+⊱    ───   ⌬〰  °⌜⏣⌟°  〰⌬   ───   ⊰
 </h1>
+
 
 > Hello stranger, want to know something? Well, let me introduce myself first. My name is Kevy, you can call me Edward or Kevy, whichever you prefer, but I’d rather be called Kevy.
 > My other headcanon is “Newborn Coder,” hehe. I’m only one year into Computer Science, so I still need more resources to learn. If you have any, please tell me I’d be happy to learn more stuff!
@@ -36,5 +37,6 @@
 >
 
 <h1 align="center">
-˗ ˏˋ   ✨   🧪:•.⎚-⎚:•.🧪   ✨   ˎˊ ˗
+˗ ˏˋ    ✨    🧪:•.⎚-⎚:•.🧪    ✨    ˎˊ ˗
 </h1>
+
