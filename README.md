@@ -23,8 +23,6 @@
   </a>
 </p>
 
-![Metrics](https://github.com/Edwardlmfao/Edwardlmfao/blob/main/github-metrics.svg)
-
 >
 >
 >
