@@ -16,10 +16,10 @@
 
 ---
 
-<h3 align="center">A Timebomb (iwnnakms)</h3>
+<h3 align="center">a silly funfacts abt me!</h3>
 <p align="center">
   <a href="https://edwardlmfao.github.io/engelclass/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Funfacts!&repo=edwardlmfao&theme=material-palenight&hide_border=true" alt="websitee">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edwardlmfao&repo=edwardlmfao&theme=material-palenight&hide_border=true" alt="websitee">
   </a>
 </p>
 
