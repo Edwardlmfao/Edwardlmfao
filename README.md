@@ -18,7 +18,7 @@
 
 <h3 align="center">A Timebomb (iwnnakms)</h3>
 <p align="center">
-  <a href="https://edwardlmfao.github.io/">
+  <a href="https://edwardlmfao.github.io/engelclass/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edwardlmfao&repo=edwardlmfao&theme=material-palenight&hide_border=true" alt="websitee">
   </a>
 </p>
